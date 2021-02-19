@@ -1,7 +1,7 @@
 # Pixel-dungeon-C++
 An effort of making the Pixel Dungeon game run with C++ 
 
-The original idea and credits goes to : [Zhuzhonghua](https://github.com/zhuzhonghua/pixeldungeon_cpp)
+The original idea and credits goes to : [Zhuzhonghua](https://github.com/zhuzhonghua/pixeldungeon_cpp)<br>
 The idea is to port it to Linux and other distribs. The current code is (very) dirty.
 
 ## Current State : 
